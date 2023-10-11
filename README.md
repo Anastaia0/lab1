@@ -44,7 +44,8 @@
 def area(r):  
 &nbsp;&nbsp;&nbsp;&nbsp;return math.pi * r * r
 
-- <font color="grey">Принимает число r - радиус
+- <font color="grey">
+Принимает число r - радиус
 - Возвращает площадь круга с радиусом r  
 <font color="orange">*Примеры вызова:*  
 input: 5  
